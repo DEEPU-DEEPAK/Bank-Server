@@ -1,0 +1,51 @@
+
+                            Server Creation - Node Js & Express
+
+                                    Basic Commands
+
+
+1. create package.json - npm init
+2. install Express - npm i express 
+3. server run : nodemon index.js
+4. Instal JWT - npm i jsonwebtoken
+
+
+                                    Basic steps
+1. create a folder for server 
+2. create pakage.json
+3. install express
+4. create index.js
+5. import express
+6. create server app using express
+7. set up port number for server 
+8. HTTP request resolving 
+9. Run server 
+10. responce code
+        1xx - information
+        2xx - success
+        3xx - Redirection
+        4xx - client error
+        5xx - server error
+
+11. JWT Token - JSON Web Token
+
+        11.1 Token Genaration - sign()
+        11.2 Token validation - verify()
+
+12. Middeleware 
+
+        12.1 Application specific Middleware
+        12.2 Router specific Middleware
+
+13. Data base Integration - mongoose
+
+        13.1 Import mongoose
+        13.2 connect the db using mongoose
+        13.3 create model using mongoose
+
+14. Resolve asynchronus - promise
+
+        14.1 resolve state - then()
+        14.2 reject state - catch()
+        
+15. CORS - cross origin resorce sharing
